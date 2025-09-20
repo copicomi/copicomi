@@ -4,7 +4,7 @@ Student at Harbin Institute of Technology, Weihai, major at Software Engineer, 2
 
 I'm learning computer science by myself with [csdiy](https://csdiy.wiki/)
 
-Courses and labs finished:
+Courses and labs finished:(private repo)
 - CS144
 - MIT6.1810
 - CMU15445
