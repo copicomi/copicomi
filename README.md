@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Student at Harbin Institute of Technology, Weihai, major at Software Engineer, 2023-2027
+
+I'm learning computer science by myself with [csdiy](https://csdiy.wiki/)
+
+Courses and labs finished:
+- CS144
+- MIT6.1810
+- CMU15445
+- MIT6.5840
+
+You can reach me at 1297228257@qq.com
+
 <!--
 **copicomi/copicomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
