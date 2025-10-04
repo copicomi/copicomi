@@ -10,7 +10,7 @@ Courses and labs finished:(private repo)
 - CMU15445
 - MIT6.5840
 
-You can reach me at 1297228257@qq.com
+You can reach me and ask everything at 1297228257@qq.com
 
 <!--
 **copicomi/copicomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
