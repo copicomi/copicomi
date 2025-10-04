@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Student at Harbin Institute of Technology, Weihai, major at Software Engineer, 2023-2027
+Undergraduate at Harbin Institute of Technology, Weihai, major at Software Engineer, 2023-2027
 
 I'm learning computer science by myself with [csdiy](https://csdiy.wiki/)
 
