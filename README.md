@@ -12,6 +12,8 @@ Courses and labs finished:(private repo)
 
 You can reach me and ask everything at 1297228257@qq.com
 
+[知乎zhihu](https://www.zhihu.com/people/bing-tang-59-61)
+
 <!--
 **copicomi/copicomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
