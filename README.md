@@ -4,12 +4,6 @@ Undergraduate at Harbin Institute of Technology, Weihai, major at Software Engin
 
 I'm learning computer science by myself with [csdiy](https://csdiy.wiki/)
 
-Courses and labs finished:(private repo)
-- CS144
-- MIT6.1810
-- CMU15445
-- MIT6.5840
-
 You can reach me and ask everything at 1297228257@qq.com
 
 myblog: https://copicomi.github.io
